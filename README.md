@@ -13,6 +13,3 @@
 - Flexbox
 - CSS Grid
 
-## Live Preview
-
-### Link
