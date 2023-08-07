@@ -1,6 +1,7 @@
-
 ## Size
+
 - Width - 1440px
+
 ## Screenshot
 
 ### Desktop
@@ -12,4 +13,3 @@
 - Semantic HTML5 markup
 - Flexbox
 - CSS Grid
-
